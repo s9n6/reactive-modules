@@ -1,20 +1,20 @@
 {
-  "name": "reactive-modules",
-  "version": "0.0.2",
-  "description": "Reactive Modules menyediakan state reaktif yang otomatis memberitahukan perubahan kepada fungsi-fungsi yang berlangganan.",
-  "main": "lib/index.js",
-  "type": "module",
-  "scripts": {
-    "test": "node t.js"
-  },
-  "author": "s9n6",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/s9n6/reactive-modules.git"
-  },
-  "homepage": "https://github.com/s9n6/reactive-modules#readme",
-  "files": [
-    "lib/"
-  ]
+    "name": "reactive-modules",
+    "version": "0.0.2",
+    "description": "Reactive Modules menyediakan state reaktif yang otomatis memberitahukan perubahan kepada fungsi-fungsi yang berlangganan.",
+    "main": "lib/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node t.js"
+    },
+    "author": "s9n6",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/s9n6/reactive-modules.git"
+    },
+    "homepage": "https://github.com/s9n6/reactive-modules#readme",
+    "files": [
+        "lib/"
+    ]
 }
