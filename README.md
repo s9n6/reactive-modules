@@ -2,6 +2,12 @@
 
 Reactive Modules menyediakan state reaktif yang otomatis memberitahukan perubahan kepada fungsi-fungsi yang berlangganan.
 
+## Instalasi
+
+```bash
+npm install reactive-modules
+```
+
 ## Penggunaan
 
 ```js
